@@ -1,0 +1,4 @@
+{
+  "mongoURI": "mongodb+srv://rsuhaskumar3:g5bBpuO9yzujSxmG@cluster0.fkix2fb.mongodb.net/sample_mflix?retryWrites=true&w=majority",
+  "baseUrl": "http://localhost:5000"
+}
